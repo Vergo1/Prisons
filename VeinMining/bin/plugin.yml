@@ -1,0 +1,7 @@
+name: Veinmining
+main: me.vergo.main.Main
+version: 1.0
+description: Vein Mining for Nostalgic Prisons.
+commands:
+   VeinMiner:
+      usage: /<command> [player]
